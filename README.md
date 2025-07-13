@@ -1,5 +1,7 @@
 ## Basic AWS Test - Text Tokenization
 
+Basic working AWS S3 and Lambda setup with Terraform. Takes an input txt file, tokenizes, and outputs a csv file.
+
 ### Setup
 
 ```bash
