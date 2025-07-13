@@ -1,0 +1,2 @@
+This is the sample text file. This text will be tokenized by the lambda function.
+Cat. Cat Dog Dog Dog Dog Dog Cat. 
